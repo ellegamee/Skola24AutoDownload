@@ -3,3 +3,11 @@
     - Skol lista
     - Lista av klassrum
     - Nedladdning knapp
+
+-Scraper
+    - Region lista
+    - Skol lista
+    - Lista av klassrum
+    - Ladda ner pdfer
+
+- Slå ihop pdfer
