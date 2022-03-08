@@ -1,0 +1,5 @@
+-GUI
+    - Region lista
+    - Skol lista
+    - Lista av klassrum
+    - Nedladdning knapp
