@@ -1,8 +1,7 @@
 from selenium import webdriver
-from webdriver_manager.firefox import GeckoDriverManager
 
 def main():
-    driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+    driver = webdriver.Chrome()
     driver.get("www.svt.se")
 
 if __name__ == "__main__":
